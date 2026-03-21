@@ -1,16 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2d1a0e,50:3a5a1c,100:55FF55&height=200&section=header&text=Nishit%20Baishya&fontSize=42&fontColor=55FF55&fontAlignY=40&desc=Turning%20caffeine%20into%20agents&descSize=16&descAlignY=62&descColor=AAAAAA&animation=fadeIn&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,100:533483&height=220&section=header&text=Nishit%20Baishya&fontSize=48&fontColor=FFAA00&fontAlignY=32&desc=Turning%20caffeine%20into%20agents&descSize=16&descAlignY=55&descColor=AAAAAA&animation=fadeIn&fontAlign=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=2000&color=55FF55&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%5BEzed9+joined+the+world%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%5BEzed9+joined+the+world%5D" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/nishit-baishya-7859b928a">
-    <img src="https://img.shields.io/badge/LinkedIn-00AA00?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/·-333333?style=flat-square" />
   <a href="https://github.com/Ezed9">
     <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/·-333333?style=flat-square" />
   <a href="https://arkheai.site">
     <img src="https://img.shields.io/badge/Arkhe_AI-FFAA00?style=flat-square&logo=vercel&logoColor=black" />
   </a>
@@ -53,14 +55,14 @@
       <h4>🧠 MultiModelOrchestration</h4>
       <p>Multi-agent AI system that coordinates and routes tasks across models</p>
       <a href="https://github.com/Ezed9/MultiModelOrchestration">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Agentic AI Chatbot</h4>
       <p>LangGraph + FastAPI + Groq LLM with Tavily search & async streaming</p>
       <a href="https://github.com/Ezed9/agentic-ai-chatbot">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
       </a>
     </td>
   </tr>
@@ -69,7 +71,7 @@
       <h4>🏗️ Arkhe — AI Agent Studio</h4>
       <p>AI agent studio with animated UI — React + TypeScript + Framer Motion</p>
       <a href="https://github.com/Ezed9/arkhe">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
       </a>
       <a href="https://arkheai.site">
         <img src="https://img.shields.io/badge/live_demo_→-FFAA00?style=flat-square&logoColor=black"/>
@@ -79,10 +81,10 @@
       <h4>📧 AI Sales Agents</h4>
       <p>B2B automation — lead discovery + cold email outreach agents</p>
       <a href="https://github.com/Ezed9/leads-agent">
-        <img src="https://img.shields.io/badge/leads_agent-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+        <img src="https://img.shields.io/badge/leads_agent-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
       </a>
       <a href="https://github.com/Ezed9/outreach-agent">
-        <img src="https://img.shields.io/badge/outreach_agent-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+        <img src="https://img.shields.io/badge/outreach_agent-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
       </a>
     </td>
   </tr>
@@ -108,8 +110,8 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=55FF55&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=55FF55&text_color=AAAAAA" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=FFAA00&fire=FF5555&currStreakLabel=55FFFF&sideLabels=FFAA00&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFAA00&text_color=AAAAAA" />
 </p>
 
 <br>
@@ -117,7 +119,7 @@
 ### 📈 Contribution Map
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezed9&bg_color=1a1a1a&color=55FF55&line=00AA00&point=FFAA00&area_color=00AA00&area=true&hide_border=true&custom_title=Mining%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezed9&bg_color=1a1a1a&color=FFAA00&line=55FFFF&point=FF5555&area_color=0f3460&area=true&hide_border=true&custom_title=Mining%20Activity" />
 </p>
 
 <br>
@@ -126,7 +128,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=55FF55&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=FFAA00&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
   </a>
 </p>
 
@@ -145,11 +147,11 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=00AA00&style=flat-square&label=players+online" />
+  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=FFAA00&style=flat-square&label=players+online" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=3000&color=555555&background=00000000&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%3CEzed9+left+the+game%3E" alt="Footer" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1a0e,50:3a5a1c,100:55FF55&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:533483&height=100&section=footer"/>
