@@ -1,8 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3,4,5,6,7,8,9,10,11,12&height=220&section=header&text=&fontSize=1&fontAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:78B7D0,25:5B9BD5,60:4A7C3F,80:3A5A1C,100:8B6914&height=250&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=100&pause=99999&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Nishit+Baishya" alt="Name" />
-</p>
+<h1 align="center">
+
+```
+  ███╗   ██╗██╗███████╗██╗  ██╗██╗████████╗
+  ████╗  ██║██║██╔════╝██║  ██║██║╚══██╔══╝
+  ██╔██╗ ██║██║███████╗███████║██║   ██║
+  ██║╚██╗██║██║╚════██║██╔══██║██║   ██║
+  ██║ ╚████║██║███████║██║  ██║██║   ██║
+  ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
+```
+
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=1500&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%E2%98%95+Turning+caffeine+into+agents;%F0%9F%A7%A0+If+it+can+think%2C+I+can+build+it" alt="Tagline" />
