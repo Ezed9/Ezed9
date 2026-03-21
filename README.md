@@ -1,163 +1,138 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=200&section=header&text=Nishit%20Baishya&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Building%20things%20that%20think&descSize=18&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2d1a0e,50:3a5a1c,100:55FF55&height=200&section=header&text=Nishit%20Baishya&fontSize=42&fontColor=55FF55&fontAlignY=40&desc=Turning%20caffeine%20into%20agents&descSize=16&descAlignY=62&descColor=AAAAAA&animation=fadeIn&fontAlign=50"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=Turning+caffeine+into+agents+%E2%98%95;Breaking+prod+so+you+don't+have+to+%F0%9F%94%A5;If+it+can+think%2C+I+can+build+it+%F0%9F%A7%A0;Ctrl%2BC%2C+Ctrl%2BV%2C+Deploy+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=2000&color=55FF55&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%5BEzed9+joined+the+world%5D" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://in.linkedin.com/in/nishit-baishya-7859b928a">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00AA00?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ezed9">
-    <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://arkheai.site">
+    <img src="https://img.shields.io/badge/Arkhe_AI-FFAA00?style=flat-square&logo=vercel&logoColor=black" />
   </a>
 </p>
 
----
+<br>
 
-## 🧠 About Me
-
-```yaml
-name: Nishit Baishya
-role: AI/ML Engineering Student
-focus: Intelligent Agents & Full-Stack Applications
-currently_building: Arkhe — an AI Agent Studio
-fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agents
+```
+ ⛏️ Player Stats
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ » Name       : Nishit Baishya
+ » Class      : AI/ML Engineering Student
+ » Speciality : Intelligent Agents & Full-Stack Apps
+ » Weapon     : LangGraph · FastAPI · Python · TypeScript · React
+ » Side Quest : DSA in C++ (competitive puzzles)
+ » Status     : Building Arkhe — an AI Agent Studio
 ```
 
-- 🤖 Obsessed with **AI agents, LLMs, and multi-model orchestration**
-- 🔧 Building with **LangGraph · FastAPI · Python · TypeScript · React**
-- 🚀 Currently shipping [**Arkhe**](https://arkheai.site) — an AI agent studio
-- 🧩 Sometimes I grind **DSA in C++** for fun
+<br>
 
----
+### ⚔️ Inventory — Tech Stack
 
-## 🏋️ Beyond Code
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+</p>
 
-- 🏋️‍♂️ **Powerlifter** — I deadlift more than my code weighs
-- 🎸 **Guitarist** — Pink Floyd is non-negotiable 🌗
-- 🎮 **Gamer** — when I'm not lifting or coding, I'm fragging
-- 🎧 Comfort zone: heavy riffs & *Dark Side of the Moon* on repeat
+<br>
 
----
-
-## 🔥 Featured Projects
+### 🗺️ World Builds — Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">MultiModelOrchestration</h3>
-      <p align="center">
-        <a href="https://github.com/Ezed9/MultiModelOrchestration">
-          <img src="https://img.shields.io/badge/VIEW_REPO-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Multi-agent AI coordination system with intelligent task routing across models</p>
+    <td width="50%" valign="top">
+      <h4>🧠 MultiModelOrchestration</h4>
+      <p>Multi-agent AI system that coordinates and routes tasks across models</p>
+      <a href="https://github.com/Ezed9/MultiModelOrchestration">
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Agentic AI Chatbot</h3>
-      <p align="center">
-        <a href="https://github.com/Ezed9/agentic-ai-chatbot">
-          <img src="https://img.shields.io/badge/VIEW_REPO-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">LangGraph + FastAPI + Groq LLM chatbot with Tavily search & async streaming</p>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic AI Chatbot</h4>
+      <p>LangGraph + FastAPI + Groq LLM with Tavily search & async streaming</p>
+      <a href="https://github.com/Ezed9/agentic-ai-chatbot">
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Arkhe — AI Agent Studio</h3>
-      <p align="center">
-        <a href="https://github.com/Ezed9/arkhe">
-          <img src="https://img.shields.io/badge/VIEW_REPO-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://arkheai.site">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">AI agent studio website with stunning animated UI — React + TypeScript + Framer Motion</p>
+    <td width="50%" valign="top">
+      <h4>🏗️ Arkhe — AI Agent Studio</h4>
+      <p>AI agent studio with animated UI — React + TypeScript + Framer Motion</p>
+      <a href="https://github.com/Ezed9/arkhe">
+        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+      </a>
+      <a href="https://arkheai.site">
+        <img src="https://img.shields.io/badge/live_demo_→-FFAA00?style=flat-square&logoColor=black"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">AI Sales Agents</h3>
-      <p align="center">
-        <a href="https://github.com/Ezed9/leads-agent">
-          <img src="https://img.shields.io/badge/LEADS_AGENT-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Ezed9/outreach-agent">
-          <img src="https://img.shields.io/badge/OUTREACH_AGENT-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">B2B AI automation — lead discovery + cold email outreach agents</p>
+    <td width="50%" valign="top">
+      <h4>📧 AI Sales Agents</h4>
+      <p>B2B automation — lead discovery + cold email outreach agents</p>
+      <a href="https://github.com/Ezed9/leads-agent">
+        <img src="https://img.shields.io/badge/leads_agent-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+      </a>
+      <a href="https://github.com/Ezed9/outreach-agent">
+        <img src="https://img.shields.io/badge/outreach_agent-2d2d2d?style=flat-square&logo=github&logoColor=55FF55"/>
+      </a>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🛠️ Tech Stack
+### 🎮 Beyond the Screen
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-FF1493?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF6B35?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-FF1493?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-8B0000?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF1493?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-FF1493?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+```
+ 🏋️ Powerlifter    — I deadlift more than my code weighs
+ 🎸 Guitarist      — Pink Floyd is non-negotiable
+ 🎮 Gamer          — when I'm not lifting or coding, I'm fragging
+ 🌗 Comfort zone   — heavy riffs & Dark Side of the Moon on repeat
+```
 
----
+<br>
 
-## 📊 GitHub Stats
+### 📊 XP Progress
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ezed9&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF1493&text_color=ffffff&ring_color=FF6B35" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=FF1493&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Ezed9&screen_effect=true&theme=blue_chill" width="80%"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=55FF55&fire=FFAA00&currStreakLabel=55FF55&sideLabels=55FF55&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=55FF55&text_color=AAAAAA" />
 </p>
 
----
+<br>
 
-## 📈 Contribution Graph
+### 📈 Contribution Map
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezed9&bg_color=0d1117&color=FF6B35&line=FF1493&point=ffffff&area_color=FF6B35&area=true&hide_border=true&custom_title=Nishit's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezed9&bg_color=1a1a1a&color=55FF55&line=00AA00&point=FFAA00&area_color=00AA00&area=true&hide_border=true&custom_title=Mining%20Activity" />
 </p>
 
----
+<br>
 
-## 🎵 Vibing To
+### 🎵 Jukebox
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=462525&interchange=false&bar_color=FF6B35&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=55FF55&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
   </a>
 </p>
 
----
+<br>
 
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
-</p>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
+### 🐍 Snake vs. Contributions
 
 <p align="center">
   <picture>
@@ -167,14 +142,14 @@ fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agent
   </picture>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=00AA00&style=flat-square&label=players+online" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=400&height=30&lines=Thanks+for+stopping+by!+%F0%9F%A4%98" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=3000&color=555555&background=00000000&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%3CEzed9+left+the+game%3E" alt="Footer" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1a0e,50:3a5a1c,100:55FF55&height=100&section=footer"/>
