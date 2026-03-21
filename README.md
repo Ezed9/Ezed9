@@ -1,17 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:78B7D0,25:5B9BD5,60:4A7C3F,80:3A5A1C,100:8B6914&height=250&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn"/>
 
-<h1 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=100&pause=99999&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=false&width=650&height=55&lines=NISHIT+BAISHYA" alt="Name" />
+</p>
 
-```
-  ███╗   ██╗██╗███████╗██╗  ██╗██╗████████╗
-  ████╗  ██║██║██╔════╝██║  ██║██║╚══██╔══╝
-  ██╔██╗ ██║██║███████╗███████║██║   ██║
-  ██║╚██╗██║██║╚════██║██╔══██║██║   ██║
-  ██║ ╚████║██║███████║██║  ██║██║   ██║
-  ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝
-```
-
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚔️_AI/ML_Engineering_Student-2d2d2d?style=flat-square&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/🏗️_Agent_Builder-2d2d2d?style=flat-square&labelColor=2d2d2d" />
+  <img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-2d2d2d?style=flat-square&labelColor=2d2d2d" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=1500&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%E2%98%95+Turning+caffeine+into+agents;%F0%9F%A7%A0+If+it+can+think%2C+I+can+build+it" alt="Tagline" />
