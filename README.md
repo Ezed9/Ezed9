@@ -1,7 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,100:533483&height=220&section=header&text=Nishit%20Baishya&fontSize=48&fontColor=FFAA00&fontAlignY=32&desc=Turning%20caffeine%20into%20agents&descSize=16&descAlignY=55&descColor=AAAAAA&animation=fadeIn&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,3,4,5,6,7,8,9,10,11,12&height=220&section=header&text=&fontSize=1&fontAlignY=50"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=2000&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%5BEzed9+joined+the+world%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=100&pause=99999&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Nishit+Baishya" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=1500&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%E2%98%95+Turning+caffeine+into+agents;%F0%9F%A7%A0+If+it+can+think%2C+I+can+build+it" alt="Tagline" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=55FFFF&background=00000000&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%5BEzed9+joined+the+world%5D" alt="Join message" />
 </p>
 
 <p align="center">
