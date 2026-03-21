@@ -236,7 +236,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=FFAA00&style=flat-square&label=players+online" />
+  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=FFAA00&style=flat-square&label=profile+views" />
 </p>
 
 <p align="center">
