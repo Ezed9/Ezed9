@@ -29,7 +29,7 @@ fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agent
 
 - 🤖 Obsessed with **AI agents, LLMs, and multi-model orchestration**
 - 🔧 Building with **LangGraph · FastAPI · Python · TypeScript · React**
-- 🚀 Currently shipping [**Arkhe**](https://arkhe-tau.vercel.app) — an AI agent studio
+- 🚀 Currently shipping [**Arkhe**](https://arkheai.site) — an AI agent studio
 - 🧩 Sometimes I grind **DSA in C++** for fun
 
 ---
@@ -73,7 +73,7 @@ fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agent
         <a href="https://github.com/Ezed9/arkhe">
           <img src="https://img.shields.io/badge/VIEW_REPO-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <a href="https://arkhe-tau.vercel.app">
+        <a href="https://arkheai.site">
           <img src="https://img.shields.io/badge/LIVE_DEMO-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
       </p>
