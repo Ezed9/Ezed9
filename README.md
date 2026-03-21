@@ -35,14 +35,15 @@
 <br>
 
 ```
- ⛏️ Player Stats
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- » Name       : Nishit Baishya
- » Class      : AI/ML Engineering Student
- » Speciality : Intelligent Agents & Full-Stack Apps
- » Weapon     : LangGraph · FastAPI · Python · TypeScript · React
- » Side Quest : DSA in C++ (competitive puzzles)
- » Status     : Building Arkhe — an AI Agent Studio
+⛏️ Player Stats
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+» Name    : Nishit Baishya
+» Class   : AI/ML Engineering Student
+» Special : Intelligent Agents
+» Weapon  : LangGraph · FastAPI
+            Python · TypeScript · React
+» Side Q  : DSA in C++ (competitive)
+» Status  : Building Arkhe — AI Studio
 ```
 
 <br>
@@ -63,137 +64,125 @@
 
 ### 🗺️ World Builds — Featured Projects
 
-<table>
-  <tr><td colspan="2"><br></td></tr>
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║  ⚗️ MultiModelOrchestration         ║
-║  ────────────────────────────────    ║
-║  ✦ LEGENDARY                        ║
-║                                      ║
-║  Multi-agent AI coordination         ║
-║  system with intelligent task        ║
-║  routing across models               ║
-║                                      ║
-║  Enchantments:                       ║
-║   ⚡ Task Routing III                ║
-║   🧠 Multi-Agent Coordination II    ║
-║   🔄 Model Orchestration IV         ║
-║                                      ║
-║  Crafted with: Python                ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════╗
+║  ⚗️ MultiModelOrchestration   ║
+║  ──────────────────────────    ║
+║  ✦ LEGENDARY                  ║
+║                                ║
+║  Multi-agent AI coordination   ║
+║  system with intelligent       ║
+║  task routing across models    ║
+║                                ║
+║  Enchantments:                 ║
+║   ⚡ Task Routing III          ║
+║   🧠 Multi-Agent Coord II     ║
+║   🔄 Model Orchestration IV   ║
+║                                ║
+║  Crafted with: Python          ║
+╚════════════════════════════════╝
 ```
 
-<p>
-  <a href="https://github.com/Ezed9/MultiModelOrchestration">
-    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FFAA00?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-    </td>
-    <td width="50%" valign="top">
+<a href="https://github.com/Ezed9/MultiModelOrchestration">
+  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FFAA00?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
 
 ```
-╔══════════════════════════════════════╗
-║  🤖 Agentic AI Chatbot              ║
-║  ────────────────────────────────    ║
-║  ✦ EPIC                             ║
-║                                      ║
-║  Agentic chatbot powered by          ║
-║  LangGraph with real-time search     ║
-║  and async streaming                 ║
-║                                      ║
-║  Enchantments:                       ║
-║   💬 Async Streaming III             ║
-║   🔍 Tavily Search II               ║
-║   ⚡ Groq LLM Speed V               ║
-║                                      ║
-║  Crafted with: Python · FastAPI      ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════╗
+║  🤖 Agentic AI Chatbot        ║
+║  ──────────────────────────    ║
+║  ✦ EPIC                       ║
+║                                ║
+║  Agentic chatbot powered by    ║
+║  LangGraph with real-time      ║
+║  search and async streaming    ║
+║                                ║
+║  Enchantments:                 ║
+║   💬 Async Streaming III       ║
+║   🔍 Tavily Search II         ║
+║   ⚡ Groq LLM Speed V         ║
+║                                ║
+║  Crafted with: Python·FastAPI  ║
+╚════════════════════════════════╝
 ```
 
-<p>
-  <a href="https://github.com/Ezed9/agentic-ai-chatbot">
-    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-55FFFF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+<a href="https://github.com/Ezed9/agentic-ai-chatbot">
+  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-55FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br><br>
 
 ```
-╔══════════════════════════════════════╗
-║  🏗️ Arkhe — AI Agent Studio         ║
-║  ────────────────────────────────    ║
-║  ★ MYTHIC                            ║
-║                                      ║
-║  Full AI agent studio with           ║
-║  stunning animated UI and            ║
-║  interactive agent workflows         ║
-║                                      ║
-║  Enchantments:                       ║
-║   ✨ Framer Motion V                 ║
-║   🎨 UI Animation IV                ║
-║   🚀 Vercel Deployment III          ║
-║                                      ║
-║  Crafted with: TypeScript · React    ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════╗
+║  🏗️ Arkhe — AI Agent Studio   ║
+║  ──────────────────────────    ║
+║  ★ MYTHIC                      ║
+║                                ║
+║  Full AI agent studio with     ║
+║  stunning animated UI and      ║
+║  interactive agent workflows   ║
+║                                ║
+║  Enchantments:                 ║
+║   ✨ Framer Motion V           ║
+║   🎨 UI Animation IV          ║
+║   🚀 Vercel Deployment III    ║
+║                                ║
+║  Crafted with: TS · React      ║
+╚════════════════════════════════╝
 ```
 
-<p>
-  <a href="https://github.com/Ezed9/arkhe">
-    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FF55FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://arkheai.site">
-    <img src="https://img.shields.io/badge/🌍_Visit_World-FFAA00?style=for-the-badge&logoColor=black"/>
-  </a>
-</p>
-    </td>
-    <td width="50%" valign="top">
+<a href="https://github.com/Ezed9/arkhe">
+  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FF55FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://arkheai.site">
+  <img src="https://img.shields.io/badge/🌍_Visit_World-FFAA00?style=for-the-badge&logoColor=black"/>
+</a>
+
+<br><br>
 
 ```
-╔══════════════════════════════════════╗
-║  📧 AI Sales Agents                 ║
-║  ────────────────────────────────    ║
-║  ✦ RARE                             ║
-║                                      ║
-║  Dual agent system for B2B           ║
-║  automation — discovers leads        ║
-║  and sends cold outreach             ║
-║                                      ║
-║  Enchantments:                       ║
-║   🎯 Lead Discovery III             ║
-║   📨 Cold Outreach II               ║
-║   🔗 Pipeline Automation IV         ║
-║                                      ║
-║  Crafted with: Python                ║
-╚══════════════════════════════════════╝
+╔════════════════════════════════╗
+║  📧 AI Sales Agents           ║
+║  ──────────────────────────    ║
+║  ✦ RARE                       ║
+║                                ║
+║  Dual agent system for B2B     ║
+║  automation — discovers leads  ║
+║  and sends cold outreach       ║
+║                                ║
+║  Enchantments:                 ║
+║   🎯 Lead Discovery III       ║
+║   📨 Cold Outreach II         ║
+║   🔗 Pipeline Automation IV   ║
+║                                ║
+║  Crafted with: Python          ║
+╚════════════════════════════════╝
 ```
 
-<p>
-  <a href="https://github.com/Ezed9/leads-agent">
-    <img src="https://img.shields.io/badge/⛏️_Leads_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Ezed9/outreach-agent">
-    <img src="https://img.shields.io/badge/⛏️_Outreach_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Ezed9/leads-agent">
+  <img src="https://img.shields.io/badge/⛏️_Leads_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ezed9/outreach-agent">
+  <img src="https://img.shields.io/badge/⛏️_Outreach_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 <br>
 
 ### 🎮 Beyond the Screen
 
 ```
- 🏋️ Powerlifter    — I deadlift more than my code weighs
- 🎸 Guitarist      — Pink Floyd is non-negotiable
- 🎮 Gamer          — when I'm not lifting or coding, I'm fragging
- 🌗 Comfort zone   — heavy riffs & Dark Side of the Moon on repeat
+🏋️ Powerlifter  — deadlift > code weight
+🎸 Guitarist    — Pink Floyd forever
+🎮 Gamer        — fragging between builds
+🌗 Vibe         — heavy riffs & Dark Side
 ```
 
 <br>
@@ -201,12 +190,15 @@
 ### 📊 XP Progress
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Ezed9&screen_effect=true&theme=blue_chill" width="80%"/>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Ezed9&screen_effect=true&theme=blue_chill" width="90%"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=FFAA00&fire=FF5555&currStreakLabel=55FFFF&sideLabels=FFAA00&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFAA00&text_color=AAAAAA" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=FFAA00&fire=FF5555&currStreakLabel=55FFFF&sideLabels=FFAA00&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFAA00&text_color=AAAAAA" />
 </p>
 
 <br>
