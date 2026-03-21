@@ -36,8 +36,6 @@ fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agent
 
 ## 🏋️ Beyond Code
 
-<img align="right" src="https://media.giphy.com/media/xT5LMWNFkMaGagEaVq/giphy.gif" width="120"/>
-
 - 🏋️‍♂️ **Powerlifter** — I deadlift more than my code weighs
 - 🎸 **Guitarist** — Pink Floyd is non-negotiable 🌗
 - 🎮 **Gamer** — when I'm not lifting or coding, I'm fragging
