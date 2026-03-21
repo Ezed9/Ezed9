@@ -58,42 +58,123 @@
 ### 🗺️ World Builds — Featured Projects
 
 <table>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 MultiModelOrchestration</h4>
-      <p>Multi-agent AI system that coordinates and routes tasks across models</p>
-      <a href="https://github.com/Ezed9/MultiModelOrchestration">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
-      </a>
+
+```
+╔══════════════════════════════════════╗
+║  ⚗️ MultiModelOrchestration         ║
+║  ────────────────────────────────    ║
+║  ✦ LEGENDARY                        ║
+║                                      ║
+║  Multi-agent AI coordination         ║
+║  system with intelligent task        ║
+║  routing across models               ║
+║                                      ║
+║  Enchantments:                       ║
+║   ⚡ Task Routing III                ║
+║   🧠 Multi-Agent Coordination II    ║
+║   🔄 Model Orchestration IV         ║
+║                                      ║
+║  Crafted with: Python                ║
+╚══════════════════════════════════════╝
+```
+
+<p>
+  <a href="https://github.com/Ezed9/MultiModelOrchestration">
+    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FFAA00?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI Chatbot</h4>
-      <p>LangGraph + FastAPI + Groq LLM with Tavily search & async streaming</p>
-      <a href="https://github.com/Ezed9/agentic-ai-chatbot">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
-      </a>
+
+```
+╔══════════════════════════════════════╗
+║  🤖 Agentic AI Chatbot              ║
+║  ────────────────────────────────    ║
+║  ✦ EPIC                             ║
+║                                      ║
+║  Agentic chatbot powered by          ║
+║  LangGraph with real-time search     ║
+║  and async streaming                 ║
+║                                      ║
+║  Enchantments:                       ║
+║   💬 Async Streaming III             ║
+║   🔍 Tavily Search II               ║
+║   ⚡ Groq LLM Speed V               ║
+║                                      ║
+║  Crafted with: Python · FastAPI      ║
+╚══════════════════════════════════════╝
+```
+
+<p>
+  <a href="https://github.com/Ezed9/agentic-ai-chatbot">
+    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-55FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Arkhe — AI Agent Studio</h4>
-      <p>AI agent studio with animated UI — React + TypeScript + Framer Motion</p>
-      <a href="https://github.com/Ezed9/arkhe">
-        <img src="https://img.shields.io/badge/explore_→-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
-      </a>
-      <a href="https://arkheai.site">
-        <img src="https://img.shields.io/badge/live_demo_→-FFAA00?style=flat-square&logoColor=black"/>
-      </a>
+
+```
+╔══════════════════════════════════════╗
+║  🏗️ Arkhe — AI Agent Studio         ║
+║  ────────────────────────────────    ║
+║  ★ MYTHIC                            ║
+║                                      ║
+║  Full AI agent studio with           ║
+║  stunning animated UI and            ║
+║  interactive agent workflows         ║
+║                                      ║
+║  Enchantments:                       ║
+║   ✨ Framer Motion V                 ║
+║   🎨 UI Animation IV                ║
+║   🚀 Vercel Deployment III          ║
+║                                      ║
+║  Crafted with: TypeScript · React    ║
+╚══════════════════════════════════════╝
+```
+
+<p>
+  <a href="https://github.com/Ezed9/arkhe">
+    <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FF55FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://arkheai.site">
+    <img src="https://img.shields.io/badge/🌍_Visit_World-FFAA00?style=for-the-badge&logoColor=black"/>
+  </a>
+</p>
     </td>
     <td width="50%" valign="top">
-      <h4>📧 AI Sales Agents</h4>
-      <p>B2B automation — lead discovery + cold email outreach agents</p>
-      <a href="https://github.com/Ezed9/leads-agent">
-        <img src="https://img.shields.io/badge/leads_agent-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
-      </a>
-      <a href="https://github.com/Ezed9/outreach-agent">
-        <img src="https://img.shields.io/badge/outreach_agent-2d2d2d?style=flat-square&logo=github&logoColor=AAAAAA"/>
-      </a>
+
+```
+╔══════════════════════════════════════╗
+║  📧 AI Sales Agents                 ║
+║  ────────────────────────────────    ║
+║  ✦ RARE                             ║
+║                                      ║
+║  Dual agent system for B2B           ║
+║  automation — discovers leads        ║
+║  and sends cold outreach             ║
+║                                      ║
+║  Enchantments:                       ║
+║   🎯 Lead Discovery III             ║
+║   📨 Cold Outreach II               ║
+║   🔗 Pipeline Automation IV         ║
+║                                      ║
+║  Crafted with: Python                ║
+╚══════════════════════════════════════╝
+```
+
+<p>
+  <a href="https://github.com/Ezed9/leads-agent">
+    <img src="https://img.shields.io/badge/⛏️_Leads_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Ezed9/outreach-agent">
+    <img src="https://img.shields.io/badge/⛏️_Outreach_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
     </td>
   </tr>
 </table>
