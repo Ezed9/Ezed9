@@ -142,18 +142,10 @@ fun_fact: I also solve algorithmic puzzles in C++ when I need a break from agent
 ## 🎵 Vibing To
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=FF6B35" alt="Spotify Now Playing"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=462525&interchange=false&bar_color=FF6B35&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
   </a>
 </p>
-
-<!--
-  📌 SPOTIFY SETUP:
-  1. Go to https://spotify-github-profile.kittinanx.com
-  2. Log in with your Spotify account
-  3. Copy your Spotify user ID from the generated URL
-  4. Replace YOUR_SPOTIFY_ID above with your actual ID
--->
 
 ---
 
