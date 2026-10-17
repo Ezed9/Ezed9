@@ -112,7 +112,7 @@ current_focus:
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
       <ul>
-        <li><b>Critical Healthcare Deployment:</b> Architected and deployed an OPD/IPD patient registration platform for <b>Govt. Ayurvedic College &amp; Hospital, Guwahati</b>, sized for <b>500+ patients/day</b> across 5 concurrent counters.</li>
+        <li><b>Critical Healthcare Deployment:</b> Architected and deployed a production OPD/IPD hospital patient registration platform sized for <b>500+ patients/day</b> across 5 concurrent counters.</li>
         <li><b>Operator-First Ergonomics &amp; Privacy:</b> Built keyboard-only rapid data entry, strict server-side Pydantic validation, instant printable registration slips, and <b>zero-PII audit logging</b>.</li>
         <li><b>B2B &amp; AI Automation:</b> Delivered SSR production web apps across 3+ B2B clients at <a href="https://max-web.studio">max-web.studio</a> and engineered a Python + LLM API sales-automation agent.</li>
       </ul>
@@ -126,7 +126,7 @@ current_focus:
 
 | Role | Organization | Period | Key Impact |
 | :--- | :--- | :--- | :--- |
-| **Co-Founder & Full-Stack Lead** | [**Maxweb (`max-web.studio`)**](https://max-web.studio) | `Jan 2026 – Present` | Architected the 500+ patients/day OPD/IPD registration system for Govt. Ayurvedic College & Hospital; delivered SSR web platforms for 3+ B2B clients and built an LLM-powered sales-automation agent. |
+| **Co-Founder & Full-Stack Lead** | [**Maxweb (`max-web.studio`)**](https://max-web.studio) | `Jan 2026 – Present` | Architected a 500+ patients/day hospital OPD/IPD registration system across 5 concurrent counters; delivered SSR web platforms for 3+ B2B clients and built an LLM-powered sales-automation agent. |
 | **Research Intern — AI Face Detection** | **NIT Silchar** *(Advisor: Dr. D. P. Chowdhury)* | `Summer 2026` | Evaluated deepfake detectors across 5 generators (StyleGAN to DALL-E 3), proving CLIP ViT-L/14 feature superiority (0.92 AUROC) over CNN baselines (0.84 AUROC). |
 | **Industrial Trainee (IS & Telecom)** | **Indian Oil Corporation Ltd. (IOCL), Digboi Refinery** | `Jun – Jul 2026` | Analyzed critical-infrastructure enterprise networking: dual-carrier MPLS-VPN WAN (Cisco Nexus/Catalyst), SolarWinds telemetry (~99.99% WAN availability), and ISO 27001 IT/OT network segregation. |
 
