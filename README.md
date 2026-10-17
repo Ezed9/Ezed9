@@ -1,244 +1,187 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:78B7D0,25:5B9BD5,60:4A7C3F,80:3A5A1C,100:8B6914&height=250&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=100&pause=99999&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=false&width=650&height=55&lines=NISHIT+BAISHYA" alt="Name" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚔️_AI/ML_Engineering_Student-2d2d2d?style=flat-square&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/🏗️_Agent_Builder-2d2d2d?style=flat-square&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-2d2d2d?style=flat-square&labelColor=2d2d2d" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&pause=1500&color=FFAA00&background=00000000&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%E2%98%95+Turning+caffeine+into+agents;%F0%9F%A7%A0+If+it+can+think%2C+I+can+build+it" alt="Tagline" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=2000&color=55FFFF&background=00000000&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%5BEzed9+joined+the+world%5D" alt="Join message" />
-</p>
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/nishit-baishya-7859b928a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/·-333333?style=flat-square" />
-  <a href="https://github.com/Ezed9">
-    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/·-333333?style=flat-square" />
-  <a href="https://arkheai.site">
-    <img src="https://img.shields.io/badge/Arkhe_AI-FFAA00?style=flat-square&logo=vercel&logoColor=black" />
-  </a>
-</p>
-
-<br>
-
-```
-⛏️ Player Stats
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-» Name    : Nishit Baishya
-» Class   : AI/ML Engineering Student
-» Special : Intelligent Agents
-» Weapon  : LangGraph · FastAPI
-            Python · TypeScript · React
-» Side Q  : DSA in C++ (competitive)
-» Status  : Building Arkhe — AI Studio
-```
-
-<br>
-
-### ⚔️ Inventory — Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-</p>
-
-<br>
-
-### 🗺️ World Builds — Featured Projects
-
 <div align="center">
 
-```
-╔════════════════════════════════╗
-║  ⚗️ MultiModelOrchestration   ║
-║  ──────────────────────────    ║
-║  ✦ LEGENDARY                  ║
-║                                ║
-║  Multi-agent AI coordination   ║
-║  system with intelligent       ║
-║  task routing across models    ║
-║                                ║
-║  Enchantments:                 ║
-║   ⚡ Task Routing III          ║
-║   🧠 Multi-Agent Coord II     ║
-║   🔄 Model Orchestration IV   ║
-║                                ║
-║  Crafted with: Python          ║
-╚════════════════════════════════╝
-```
+<!-- Animated Custom Hero Banner -->
+<img src="./assets/hero-banner.svg" alt="Nishit Baishya — Backend & Systems Engineer • AI Security & MCP" width="100%" />
 
-<a href="https://github.com/Ezed9/MultiModelOrchestration">
-  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FFAA00?style=for-the-badge&logo=github&logoColor=black"/>
+<br />
+
+<!-- Animated Typing Header -->
+<a href="https://github.com/Ezed9">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&lines=Building+High-Throughput+Distributed+Backends+%26+Zero-Trust+AI+Infra;Bouncer%3A+Deterministic+MCP+Security+Proxy+Published+on+PyPI;Multi-Tenant+Webhook+Engine+%E2%80%94+315+events%2Fs+%40+5ms+p95+Latency;Co-Founder+%26+Full-Stack+Lead+%40+Maxweb+(max-web.studio);AI+Research+Intern+%40+NIT+Silchar+%E2%80%94+CLIP+ViT-L%2F14+Deepfake+Detection" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br />
 
-```
-╔════════════════════════════════╗
-║  🤖 Agentic AI Chatbot        ║
-║  ──────────────────────────    ║
-║  ✦ EPIC                       ║
-║                                ║
-║  Agentic chatbot powered by    ║
-║  LangGraph with real-time      ║
-║  search and async streaming    ║
-║                                ║
-║  Enchantments:                 ║
-║   💬 Async Streaming III       ║
-║   🔍 Tavily Search II         ║
-║   ⚡ Groq LLM Speed V         ║
-║                                ║
-║  Crafted with: Python·FastAPI  ║
-╚════════════════════════════════╝
-```
-
-<a href="https://github.com/Ezed9/agentic-ai-chatbot">
-  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-55FFFF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br><br>
-
-```
-╔════════════════════════════════╗
-║  🏗️ Arkhe — AI Agent Studio   ║
-║  ──────────────────────────    ║
-║  ★ MYTHIC                      ║
-║                                ║
-║  Full AI agent studio with     ║
-║  stunning animated UI and      ║
-║  interactive agent workflows   ║
-║                                ║
-║  Enchantments:                 ║
-║   ✨ Framer Motion V           ║
-║   🎨 UI Animation IV          ║
-║   🚀 Vercel Deployment III    ║
-║                                ║
-║  Crafted with: TS · React      ║
-╚════════════════════════════════╝
-```
-
-<a href="https://github.com/Ezed9/arkhe">
-  <img src="https://img.shields.io/badge/⛏️_Mine_this_repo-FF55FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://arkheai.site">
-  <img src="https://img.shields.io/badge/🌍_Visit_World-FFAA00?style=for-the-badge&logoColor=black"/>
-</a>
-
-<br><br>
-
-```
-╔════════════════════════════════╗
-║  📧 AI Sales Agents           ║
-║  ──────────────────────────    ║
-║  ✦ RARE                       ║
-║                                ║
-║  Dual agent system for B2B     ║
-║  automation — discovers leads  ║
-║  and sends cold outreach       ║
-║                                ║
-║  Enchantments:                 ║
-║   🎯 Lead Discovery III       ║
-║   📨 Cold Outreach II         ║
-║   🔗 Pipeline Automation IV   ║
-║                                ║
-║  Crafted with: Python          ║
-╚════════════════════════════════╝
-```
-
-<a href="https://github.com/Ezed9/leads-agent">
-  <img src="https://img.shields.io/badge/⛏️_Leads_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ezed9/outreach-agent">
-  <img src="https://img.shields.io/badge/⛏️_Outreach_Agent-55FF55?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<!-- Contact & Profile Badges -->
+<p align="center">
+  <a href="https://max-web.studio">
+    <img src="https://img.shields.io/badge/Maxweb_Studio-max--web.studio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Maxweb Studio" />
+  </a>
+  <a href="mailto:nishitbaishya9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nishitbaishya9%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishit-baishya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nishit_Baishya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/nishitbaishya9">
+    <img src="https://img.shields.io/badge/Codeforces-nishitbaishya9_(1225)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
 
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-### 🎮 Beyond the Screen
+## ⚡ `whoami` // Systems & AI Engineering
 
+```yaml
+engineer:
+  name: "Nishit Baishya"
+  handle: "@Ezed9"
+  education: "B.Tech in Electronics & Communication Engineering @ NIT Silchar (2023–2027)"
+  location: "Assam, India"
+
+current_focus:
+  - "Co-Founder & Full-Stack Lead @ Maxweb (max-web.studio) — Production Healthcare & B2B Systems"
+  - "Deterministic AI Agent Security & Model Context Protocol (MCP) Guardrails"
+  - "High-Throughput Distributed Queues, Transactional Outboxes & Rate-Limited Worker Pools"
+  - "Generalizable Multimodal Representation Learning (CLIP ViT-L/14 Synthetic Media Detection)"
 ```
-🏋️ Powerlifter  — deadlift > code weight
-🎸 Guitarist    — Pink Floyd forever
-🎮 Gamer        — fragging between builds
-🌗 Vibe         — heavy riffs & Dark Side
-```
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-### 📊 XP Progress
+## 🏗️ Live System Architecture // Flagship Projects
 
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Ezed9&screen_effect=true&theme=blue_chill" width="90%"/>
-</p>
+<div align="center">
+  <img src="./assets/architecture-flow.svg" alt="System Architecture — Webhook Delivery Platform & Bouncer MCP Proxy" width="100%" />
+</div>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezed9&theme=dark&hide_border=true&background=1a1a1a&ring=FFAA00&fire=FF5555&currStreakLabel=55FFFF&sideLabels=FFAA00&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=333333" />
-</p>
+<br />
 
-<p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezed9&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=FFAA00&text_color=AAAAAA" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Ezed9">Bouncer: MCP Security Proxy for AI Agents</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-2dd4bf?style=flat-square" />
+        <img src="https://img.shields.io/badge/httpx-Async-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyPI-Published-818cf8?style=flat-square&logo=pypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI-100%2B_Tests-2ea043?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Zero-Overhead Taint Tracking:</b> Built and published a <code>stdio</code> MCP security proxy on <b>PyPI</b> preventing prompt-injected agents from exfiltrating confidential data via deterministic tool-call authorization with zero LLM latency overhead.</li>
+        <li><b>Deterministic Contract Engine:</b> Enforces schema pinning, per-session call budgets, and path-traversal constraints before tool execution.</li>
+        <li><b>Verified Security Guarantees:</b> Validated <b>0 data leaks</b> across <b>16 prompt-injection benchmarks</b>; gated by <b>100+ unit &amp; integration tests</b> in GitHub Actions CI with automated PyPI Trusted Publishing.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/Ezed9">Multi-Tenant Webhook Delivery Platform</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Locust-Load_Tested-2ea043?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>At-Least-Once Semantics:</b> Engineered idempotent event ingestion (<code>Idempotency-Key</code> unique deduplication) paired with transactional-outbox enqueueing.</li>
+        <li><b>Concurrent Worker Pool:</b> Implemented using PostgreSQL <code>SELECT FOR UPDATE SKIP LOCKED</code>, <b>HMAC-SHA256</b> payload signing, exponential-backoff-with-jitter retries, and dead-letter queueing (DLQ).</li>
+        <li><b>Noisy-Neighbor Isolation &amp; Scale:</b> Built per-tenant Redis token-bucket rate limiting and structured telemetry; sustained <b>315 events/s</b> throughput, <b>100% delivery success</b>, and <b>5 ms p95 latency</b> under 30% receiver failure stress across 50 concurrent Locust clients.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/Ezed9">AI-Generated Face Detection Benchmark</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/CLIP-ViT--L%2F14-818cf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/NIT_Silchar-Research-38bdf8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Cross-Generator Evaluation:</b> Benchmarked synthetic-face detectors across <b>5 generative architectures</b> (StyleGAN, Stable Diffusion, SDXL, Flux, DALL-E 3) under Dr. Debbrota Paul Chowdhury at NIT Silchar.</li>
+        <li><b>Generalization Findings:</b> Demonstrated that pretrained <b>CLIP ViT-L/14</b> representations generalize significantly better to unseen generators than CNN baselines (<b>0.92 vs. 0.84 AUROC</b>).</li>
+        <li><b>Vulnerability Discovery:</b> Exposed how modern text-to-image synthesis pipelines cause conventional detector accuracy to collapse below chance (<b>AUROC &lt; 0.50</b>).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://max-web.studio">OPD/IPD Hospital Registration System (Maxweb)</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Critical Healthcare Deployment:</b> Architected and deployed an OPD/IPD patient registration platform for <b>Govt. Ayurvedic College &amp; Hospital, Guwahati</b>, sized for <b>500+ patients/day</b> across 5 concurrent counters.</li>
+        <li><b>Operator-First Ergonomics &amp; Privacy:</b> Built keyboard-only rapid data entry, strict server-side Pydantic validation, instant printable registration slips, and <b>zero-PII audit logging</b>.</li>
+        <li><b>B2B &amp; AI Automation:</b> Delivered SSR production web apps across 3+ B2B clients at <a href="https://max-web.studio">max-web.studio</a> and engineered a Python + LLM API sales-automation agent.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-### 📈 Contribution Map
+## 💼 Experience & Engineering Leadership
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezed9&bg_color=1a1a1a&color=FFAA00&line=55FFFF&point=FF5555&area_color=0f3460&area=true&hide_border=true&custom_title=Mining%20Activity" />
-</p>
+| Role | Organization | Period | Key Impact |
+| :--- | :--- | :--- | :--- |
+| **Co-Founder & Full-Stack Lead** | [**Maxweb (`max-web.studio`)**](https://max-web.studio) | `Jan 2026 – Present` | Architected the 500+ patients/day OPD/IPD registration system for Govt. Ayurvedic College & Hospital; delivered SSR web platforms for 3+ B2B clients and built an LLM-powered sales-automation agent. |
+| **Research Intern — AI Face Detection** | **NIT Silchar** *(Advisor: Dr. D. P. Chowdhury)* | `Summer 2026` | Evaluated deepfake detectors across 5 generators (StyleGAN to DALL-E 3), proving CLIP ViT-L/14 feature superiority (0.92 AUROC) over CNN baselines (0.84 AUROC). |
+| **Industrial Trainee (IS & Telecom)** | **Indian Oil Corporation Ltd. (IOCL), Digboi Refinery** | `Jun – Jul 2026` | Analyzed critical-infrastructure enterprise networking: dual-carrier MPLS-VPN WAN (Cisco Nexus/Catalyst), SolarWinds telemetry (~99.99% WAN availability), and ISO 27001 IT/OT network segregation. |
+| **Technical Head** | **Robotics Club, NIT Silchar** | `Jun 2025 – Jun 2026` | Led **Robotron** at Tecnoesis and mentored 20+ juniors in robotics, embedded control, and core systems engineering. |
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-### 🎵 Jukebox
+## 🛠️ Tech Stack & Systems Arsenal
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=azpeadkbt7u9vastr6nmmrlfi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1a1a&interchange=false&bar_color=FFAA00&bar_color_cover=false&mode=dark" alt="Spotify Now Playing"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,postgres,redis,fastapi,nextjs,react,tailwind,pytorch,docker,git,githubactions,linux&perline=8" alt="Tech Stack Icons" />
+</div>
 
-<br>
+<br />
 
-### 🐍 Snake vs. Contributions
+| Domain | Technologies & Core Competencies |
+| :--- | :--- |
+| **Languages** | `Python` • `C++` • `TypeScript` • `JavaScript` • `SQL` |
+| **Backend & Distributed Systems** | `FastAPI` • `REST APIs` • `AsyncIO` • `Transactional Outbox` • `Idempotency` • `Token-Bucket Rate Limiting` • `System Design` |
+| **Databases & Storage** | `PostgreSQL (SKIP LOCKED, Indexing, Query Optimization)` • `Redis` • `SQLAlchemy` • `Alembic` |
+| **AI/ML & Agent Security** | `Model Context Protocol (MCP)` • `Prompt-Injection Defense` • `PyTorch` • `LangChain` • `LangGraph` • `RAG` • `Gemini & LLM APIs` |
+| **Frontend & Web** | `Next.js (SSR)` • `React` • `TypeScript` • `Tailwind CSS` • `HTML5 / CSS3` • `Responsive UI` |
+| **DevOps, CI/CD & Testing** | `Docker` • `Docker Compose` • `GitHub Actions CI/CD` • `Pytest` • `Locust Load Testing` • `Linux` • `Git` |
 
-<p align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+## 🏆 Honours & Competitive Milestones
+
+- 🥇 **RoboWar Winner — Robotron 2024**: Secured **1st Place** among 12+ competing teams in robotics combat design and real-time control.
+- 🏅 **Regen Hackathon 2025 Finalist — NIT Manipur**: Selected among the top finalist teams for an end-to-end **IoT + Machine Learning** system.
+- ⚔️ **Competitive Programming — [Codeforces (`nishitbaishya9`)](https://codeforces.com/profile/nishitbaishya9)**: Rated **Pupil** (Max Rating: **1225**) with strong foundations in Data Structures, Algorithms, OS, DBMS, and Computer Networks.
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+## 📈 GitHub Telemetry & Contribution Snake
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ezed9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=2dd4bf&text_color=c9d1d9" alt="Ezed9 GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ezed9&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=2dd4bf&currStreakLabel=38bdf8" alt="Ezed9 GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ezed9/Ezed9/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-</p>
+</div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ezed9&color=FFAA00&style=flat-square&label=profile+views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=4000&pause=3000&color=555555&background=00000000&center=true&vCenter=true&repeat=true&width=450&height=25&lines=%3CEzed9+left+the+game%3E" alt="Footer" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:533483&height=100&section=footer"/>
+<div align="center">
+  <sub>Built with precision by <b>Nishit Baishya (@Ezed9)</b> • <a href="https://max-web.studio">max-web.studio</a> • <a href="mailto:nishitbaishya9@gmail.com">nishitbaishya9@gmail.com</a></sub>
+</div>
