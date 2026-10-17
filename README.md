@@ -23,9 +23,6 @@
   <a href="https://www.linkedin.com/in/nishit-baishya/">
     <img src="https://img.shields.io/badge/LinkedIn-Nishit_Baishya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/nishitbaishya9">
-    <img src="https://img.shields.io/badge/Codeforces-nishitbaishya9_(1225)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
 </p>
 
 </div>
@@ -125,14 +122,13 @@ current_focus:
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## 💼 Experience & Engineering Leadership
+## 💼 Experience
 
 | Role | Organization | Period | Key Impact |
 | :--- | :--- | :--- | :--- |
 | **Co-Founder & Full-Stack Lead** | [**Maxweb (`max-web.studio`)**](https://max-web.studio) | `Jan 2026 – Present` | Architected the 500+ patients/day OPD/IPD registration system for Govt. Ayurvedic College & Hospital; delivered SSR web platforms for 3+ B2B clients and built an LLM-powered sales-automation agent. |
 | **Research Intern — AI Face Detection** | **NIT Silchar** *(Advisor: Dr. D. P. Chowdhury)* | `Summer 2026` | Evaluated deepfake detectors across 5 generators (StyleGAN to DALL-E 3), proving CLIP ViT-L/14 feature superiority (0.92 AUROC) over CNN baselines (0.84 AUROC). |
 | **Industrial Trainee (IS & Telecom)** | **Indian Oil Corporation Ltd. (IOCL), Digboi Refinery** | `Jun – Jul 2026` | Analyzed critical-infrastructure enterprise networking: dual-carrier MPLS-VPN WAN (Cisco Nexus/Catalyst), SolarWinds telemetry (~99.99% WAN availability), and ISO 27001 IT/OT network segregation. |
-| **Technical Head** | **Robotics Club, NIT Silchar** | `Jun 2025 – Jun 2026` | Led **Robotron** at Tecnoesis and mentored 20+ juniors in robotics, embedded control, and core systems engineering. |
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
@@ -152,14 +148,6 @@ current_focus:
 | **AI/ML & Agent Security** | `Model Context Protocol (MCP)` • `Prompt-Injection Defense` • `PyTorch` • `LangChain` • `LangGraph` • `RAG` • `Gemini & LLM APIs` |
 | **Frontend & Web** | `Next.js (SSR)` • `React` • `TypeScript` • `Tailwind CSS` • `HTML5 / CSS3` • `Responsive UI` |
 | **DevOps, CI/CD & Testing** | `Docker` • `Docker Compose` • `GitHub Actions CI/CD` • `Pytest` • `Locust Load Testing` • `Linux` • `Git` |
-
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-
-## 🏆 Honours & Competitive Milestones
-
-- 🥇 **RoboWar Winner — Robotron 2024**: Secured **1st Place** among 12+ competing teams in robotics combat design and real-time control.
-- 🏅 **Regen Hackathon 2025 Finalist — NIT Manipur**: Selected among the top finalist teams for an end-to-end **IoT + Machine Learning** system.
-- ⚔️ **Competitive Programming — [Codeforces (`nishitbaishya9`)](https://codeforces.com/profile/nishitbaishya9)**: Rated **Pupil** (Max Rating: **1225**) with strong foundations in Data Structures, Algorithms, OS, DBMS, and Computer Networks.
 
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
