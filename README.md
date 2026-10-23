@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/Ezed9">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&lines=Building+High-Throughput+Distributed+Backends+%26+Zero-Trust+AI+Infra;Bouncer%3A+Deterministic+MCP+Security+Proxy+Published+on+PyPI;Multi-Tenant+Webhook+Engine+%E2%80%94+315+events%2Fs+%40+5ms+p95+Latency;Co-Founder+%26+Full-Stack+Lead+%40+Maxweb+(max-web.studio);AI+Research+Intern+%40+NIT+Silchar+%E2%80%94+CLIP+ViT-L%2F14+Deepfake+Detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&lines=Building+Distributed+Backends+%26+AI+Agent+Tooling;Bouncer%3A+Deterministic+MCP+Security+Proxy+Published+on+PyPI;Multi-Tenant+Webhook+Engine+%E2%80%94+315+events%2Fs+%40+5ms+p95+Latency;Co-Founder+%26+Full-Stack+Lead+%40+Maxweb+(max-web.studio);AI+Research+Intern+%40+NIT+Silchar+%E2%80%94+CLIP+ViT-L%2F14+Deepfake+Detection" alt="Typing SVG" />
 </a>
 
 <br />
@@ -58,7 +58,7 @@ current_focus:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Ezed9">Bouncer: MCP Security Proxy for AI Agents</a></h3>
+      <h3>🛡️ <a href="https://github.com/Ezed9/mcp-bouncer">Bouncer: MCP Security Proxy for AI Agents</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-2dd4bf?style=flat-square" />
@@ -67,9 +67,9 @@ current_focus:
         <img src="https://img.shields.io/badge/CI-100%2B_Tests-2ea043?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
       <ul>
-        <li><b>Zero-Overhead Taint Tracking:</b> Built and published a <code>stdio</code> MCP security proxy on <b>PyPI</b> preventing prompt-injected agents from exfiltrating confidential data via deterministic tool-call authorization with zero LLM latency overhead.</li>
+        <li><b>Destination Taint Tracking:</b> Built and published a <code>stdio</code> MCP proxy on <b>PyPI</b> that denies an agent's send/share calls to destinations it first read in untrusted tool output. Plain-Python rules, no LLM in the decision path.</li>
         <li><b>Deterministic Contract Engine:</b> Enforces schema pinning, per-session call budgets, and path-traversal constraints before tool execution.</li>
-        <li><b>Verified Security Guarantees:</b> Validated <b>0 data leaks</b> across <b>16 prompt-injection benchmarks</b>; gated by <b>100+ unit &amp; integration tests</b> in GitHub Actions CI with automated PyPI Trusted Publishing.</li>
+        <li><b>Benchmarked with its cost:</b> On AgentDojo (gpt-4o-mini, 164 attack cases) the attacker's goal was reached in <b>48</b> cases without Bouncer and <b>0 of 163</b> with it, but Bouncer allowed no send at all, so email/share tasks went <b>4/6 &rarr; 0/6</b>. One fixed, non-adaptive attack. 150 tests in GitHub Actions CI, PyPI Trusted Publishing.</li>
       </ul>
     </td>
     <td width="50%" valign="top">

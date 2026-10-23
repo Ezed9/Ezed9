@@ -87,7 +87,7 @@
   <g transform="translate(246, 174)">
     <rect width="196" height="62" rx="10" fill="url(#cardGrad)" stroke="#30363d" stroke-width="1" />
     <rect x="0" y="0" width="4" height="62" rx="2" fill="#818cf8" />
-    <text x="16" y="26" class="metric-val" fill="#818cf8">0 Data Leaks</text>
+    <text x="16" y="26" class="metric-val" fill="#818cf8">150 Tests</text>
     <text x="16" y="46" class="metric-lbl">Bouncer MCP Proxy (PyPI)</text>
   </g>
 
