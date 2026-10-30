@@ -14,6 +14,9 @@
 
 <!-- Contact & Profile Badges -->
 <p align="center">
+  <a href="https://nishitbaishya.me">
+    <img src="https://img.shields.io/badge/Portfolio-nishitbaishya.me-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://max-web.studio">
     <img src="https://img.shields.io/badge/Maxweb_Studio-max--web.studio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" alt="Maxweb Studio" />
   </a>
@@ -171,5 +174,5 @@ current_focus:
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 
 <div align="center">
-  <sub>Built with precision by <b>Nishit Baishya (@Ezed9)</b> • <a href="https://max-web.studio">max-web.studio</a> • <a href="mailto:nishitbaishya9@gmail.com">nishitbaishya9@gmail.com</a></sub>
+  <sub>Built with precision by <b>Nishit Baishya (@Ezed9)</b> • <a href="https://nishitbaishya.me">nishitbaishya.me</a> • <a href="https://max-web.studio">max-web.studio</a> • <a href="mailto:nishitbaishya9@gmail.com">nishitbaishya9@gmail.com</a></sub>
 </div>
